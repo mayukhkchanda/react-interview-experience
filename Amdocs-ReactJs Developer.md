@@ -4,11 +4,11 @@
 
 ## Experience - 1yr 5months
 
-## **Selected & Offered & Joined**
+## **Selected ✔️ | Offered ✔️**
 
 ---
 
-## Online Assessment -> Techincal Interview
+## Online Assessment ➡️ Techincal Interview
 
 ---
 
@@ -30,6 +30,7 @@
     1. Difference between _var_, _let_ & _const_ ?
     1. \*Arrow Functions _vs_ Normal functions ? _Follow Up:_ While calling an API which one would you use for extracting the response?
     1. Different ways of creating **Objects** in Javascript.
+    1. \*Debouncing and Throttling in JavaScript.
 
   - ### JavaScript Coding questions
 

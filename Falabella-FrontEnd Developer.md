@@ -4,11 +4,11 @@
 
 ## Experience - 1yr 5months
 
-## Technical round cleared | Technical Managerial round not cleared
+## Technical round ✔️ | Technical Managerial round ❌
 
 ---
 
-## HackerEarth Online Assessment -> Technical Round -> Technical Managerial round
+### HackerEarth Online Assessment ➡️ Technical Round ➡️ Technical Managerial round
 
 I got this oppurtuinity from an HackerEarth online test. I cleared the test after which I was offered an interview.
 

@@ -4,7 +4,7 @@
 
 ## Experience - 1yr 5months
 
-## **Selected & Offered**
+## **Selected ✔️ | Offered ✔️**
 
 ---
 
