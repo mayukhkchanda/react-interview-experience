@@ -1,4 +1,10 @@
-# BOLD SYSTEMS - Sr. SDE(React.JS) - SELECTED ✅
+# BOLD SYSTEMS
+
+## Role - Sr. SDE(React.JS)
+
+## Experience - 3years 5months
+
+## Technical - SELECTED ✅
 
 ## Round 1
 
@@ -17,7 +23,7 @@
   1. Server side rendering with it's pros and cons.
   1. How do we reduce bundle size in react.
 
-- **Output questions**
+- **Output based**
 
   1. Hoisting based
 
@@ -72,3 +78,6 @@
   ```
 
   `output: I -> 'name: undefined', II -> 'name: abc'`. This is because functions are considered as values in JS and as such the later function defination of `a` will overried the former defination which would lead to both the function invocations `I` & `II` calling the same defination.
+
+- **Coding Question/Vanila JS**
+  - Given 2 sorted arrays merge the arrays. The arrays might contain duplicate elements. Need to solve without library functions. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/). Can be done using 2 pointer approach.
