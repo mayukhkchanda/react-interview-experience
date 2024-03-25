@@ -1,0 +1,13 @@
+#root {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 10px;
+
+}
+.container {
+    display: flex;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    flex-direction: column;
+}

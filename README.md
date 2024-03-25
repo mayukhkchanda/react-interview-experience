@@ -5,11 +5,13 @@
 ## Start with the basics
 
 1. **JavaScirpt**. Before frameworks, learn JavaScript. These resources are free and what I have been using for my preparation.
-   - [JavaScript Info](https://javascript.info/) - Website for learning JS and the web fundamentals. Also, has problems for practising.
-   - [Namaste JavaScript Season 1 by Akshay Saini](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&t=0s) - Great for a quick revision or building up the fundamentals.
-   - [Namaste JavaScript Season 2 by Akshay Saini](https://www.youtube.com/watch?v=78Homn79Qsk&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX) - Indepth of more topics on callbacks, promises and async-await.
-   - [Network Optimization by JsCafe](https://www.youtube.com/watch?v=hEEldnT00pU&list=PLe3J6mZBq1xV-TDUJoV9V6rvBtKW95OD0) - Network performance in web applications by _JsCafe_. Also, check the frontend system design and machine coding questions.
-   - [Frontend System Design by Chirag Goel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU) - Frontend system design concepts by Chirag Goel
+
+- [JavaScript Info](https://javascript.info/) - Website for learning JS and the web fundamentals. Also, has problems for practising.
+- [Namaste JavaScript Season 1 by Akshay Saini](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&t=0s) - Great for a quick revision or building up the fundamentals.
+- [Namaste JavaScript Season 2 by Akshay Saini](https://www.youtube.com/watch?v=78Homn79Qsk&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX) - Indepth of more topics on callbacks, promises and async-await.
+- [Network Optimization by JsCafe](https://www.youtube.com/watch?v=hEEldnT00pU&list=PLe3J6mZBq1xV-TDUJoV9V6rvBtKW95OD0) - Network performance in web applications by _JsCafe_. Also, check the frontend system design and machine coding questions.
+- [Frontend System Design by Chirag Goel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU) - Frontend system design concepts by Chirag Goel
+- [BigFrontEnd.dev](https://bigfrontend.dev/problem) - Great vanila JS practise problems with test cases.
 
 ## React.Js Framework
 
