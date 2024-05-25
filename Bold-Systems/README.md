@@ -18,6 +18,7 @@
   1. useRef
   1. Lazy loading & Suspense
   1. How can we pass data from child to parent without callbacks? - Using `useImperativeHandle` hook.
+     > https://stackoverflow.com/a/72353009
   1. Context vs Redux. Why would you chose one over the other ?
   1. Object comparision in JS. How can we quickly compare 2 objects in JS having nested object? - Using `JSON.stringify`
   1. Server side rendering with it's pros and cons.

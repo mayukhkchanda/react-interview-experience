@@ -4,9 +4,11 @@
 
 ## Experience - 3years 5months
 
-## Technical Round I - SELECTED ✅
+## Technical Round I & II - SELECTED ✅
 
 ## Round I - Framework Round(React JS)
+
+## Rount II - Javascript Round
 
 ### **React Questions**
 
@@ -28,6 +30,13 @@
 1.  Context provider vs Redux. Use case of each one. which one is more favorable and Why ?
 
     > `Answer:` In my opinion, `Redux` would be favorable as invidual components can subscribe to the state changes whereas in case of `Context` when the context updates all the child components updates since context itself is a react component and when it wraps over the child components, it will re-render those child components too when context changes.
+
+1.  Testing in React applications using libraries like Jest, React Testing library & Cyprus
+
+    > https://www.robinwieruch.de/react-testing-library/
+
+1.  Shadow dom vs Virtual DOM
+    > https://medium.com/@kamaljoshi1582001/battle-of-the-doms-shadow-vs-virtual-unveiling-the-webs-hidden-powers-6e2e689efd98
 
 ---
 
