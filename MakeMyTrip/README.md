@@ -1,14 +1,12 @@
 # MakeMyTrip
 
-## Role - Senrio SWE - UI
+## Role - Senior SWE - UI
 
 ## Experience - 3years 5months
 
 ## Technical Round I - SELECTED ✅
 
-## Technical Round II - REJECTED ❌
-
-## Round I - Vanila JS - 1 Hour
+## Round I - JS Round - 1 Hour
 
 1.  Event loop
 1.  Micro-task/callback queues

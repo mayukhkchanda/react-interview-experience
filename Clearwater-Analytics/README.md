@@ -10,7 +10,9 @@
 
 1.  HackerRank coding challenge. `Product Page`
 
-    > To Design a `Home` Page & `Cart` Page using `React-Router-Dom`. `Home` page should display products with `name`, `description` & `price` along with `Add To Cart` button that adds the product to cart. When product is added to cart, the `Cart` page must render those products with a `Remove from Cart` button alongside and show the total of the cart at the bottom. User can added multiple quantities of each product but each product must be added once and the quatity must be updated. User could remove a product from the `Cart` page and the total must be updated.
+    - > To Design a `Home` Page & `Cart` Page using `React-Router-Dom`. `Home` page should display products with `name`, `description` & `price` along with `Add To Cart` button that adds the product to cart.
+    - > When product is added to cart, the `Cart` page must render those products with a `Remove from Cart` button alongside and show the total of the cart at the bottom.
+    - > User can added multiple quantities of each product but each product must be added once and the quatity must be updated. User could remove a product from the `Cart` page and the total must be updated.
 
     - This was a Hackerrank platform based test where the skeleton was already implement and the business functionality was required to be added.
 
@@ -26,7 +28,7 @@
     - Implement `Array.prototype.myReduce` method as a polyfill for `Array.prototype.reduce`. Had to use it in the cart component to calculate the total instead of `Array.prototype.reduce`.
       > https://bigfrontend.dev/problem/implement-Array-prototype-reduce
 
-## Round II - JavaScript Question & Typescript + React.JS coding - 1 Hr
+## Round II - JavaScript Question & Typescript + React.JS coding - 1 Hour
 
 1. Diff b/w `var`, `let` & `const`.
 1. Lexical environments and temporal dead zone.
@@ -55,7 +57,7 @@
 
 ## Round III - Techno-Managerial - React.JS Custom Hooks - 45 mins
 
-1. This was a short techno-managerial round with a React.Js coding question with a few follow up question. Started with a short introductio with the current assignment, roles & responsibilities. Followed by a coding question and follow up questions.
+1. This was a short techno-managerial round with a React.Js coding question with a few follow up question. Started with a short introduction with the current assignment, roles & responsibilities. Followed by a coding question and follow up questions.
 
 1. Implement a `usePrevious` custom hook that can track the previous value.
 
@@ -72,7 +74,7 @@
          return [value, prevValRef.current, increment];
      };
      ```
-   - Follow question was to generalis it for any value be it string or numbers and use it in an input component to track current & previous value. The hook must be self-contained meaning it has both the current and previous values.
+   - Follow question was to generalise it for any value be it string or numbers and use it in an input component to track current & previous value. The hook must be self-contained meaning it has both the current and previous values.
 
      ```
      import { useRef, useState } from 'react';
