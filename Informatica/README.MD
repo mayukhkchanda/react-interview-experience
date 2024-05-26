@@ -106,7 +106,7 @@
 
 ## Round III - Framework/Discussion Round
 
-- This was a pair programming round. The interviewer was joining from the US and was the Principle Software Architect for the design systems used _Informatica_.
+- This was a pair programming round. The interviewer was joining from the US and was the Principle Software Architect for the design systems used at _Informatica_.
 - The main idea was to judge the approach to a particular problem statement rather than the end solution. It was neccessary to discuss the approach we were taking rather than the end solution.
 - The problem statement was simple, to fetch data from a [Random User API](https://randomuser.me/api/) and show the result.
   > Follow up question:
