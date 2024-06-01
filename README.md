@@ -4,6 +4,10 @@
 
 ## Start with the basics
 
+1. **HTML/CSS**:
+   - Semantic HTML, CSS display Properties, ARIA & accessibility, input validations & types
+   - [Miscellaneous HTML/CSS Topics](./miscellaneous-html-css-topics.md) - Collection of topics on Web Performance, Accessibility & FE System Design.
+
 1. **JavaScirpt**. Before frameworks, learn JavaScript. These resources are free and what I have been using for my preparation.
 
 - [JavaScript Info](https://javascript.info/) - Website for learning JS and the web fundamentals. Also, has problems for practising.
@@ -27,7 +31,7 @@
   - [Miscellaneous React Topis](./miscellaneous-react-topics.md) - Miscellaneous topics about optimizing React Apps & design patterns.
   - Webpack Youtube tutorial: https://www.youtube.com/watch?v=MpGLUVbqoYQ
   - Babel official docs: https://babeljs.io/docs/en?msclkid=58ce3b3eceb711ecb3bf645a84d1ff63
-  - 
+
 
 - I jotted down some of the frequent JavaScript questions and their implementation in this [JavaScript Interview questions](https://mayukhkchanda.github.io/js-interview-questions/) blog.
 
