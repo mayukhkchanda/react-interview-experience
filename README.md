@@ -24,9 +24,10 @@
 
   - [React JS Udemy course by Stephen Grider](https://www.udemy.com/course/react-redux-tutorial/) - This was the course I used while starting out.
   - [Redux official docs](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) - A state management library for React(or any other framework)
-
+  - [Miscellaneous React Topis](./miscellaneous-react-topics.md) - Miscellaneous topics about optimizing React Apps & design patterns.
   - Webpack Youtube tutorial: https://www.youtube.com/watch?v=MpGLUVbqoYQ
   - Babel official docs: https://babeljs.io/docs/en?msclkid=58ce3b3eceb711ecb3bf645a84d1ff63
+  - 
 
 - I jotted down some of the frequent JavaScript questions and their implementation in this [JavaScript Interview questions](https://mayukhkchanda.github.io/js-interview-questions/) blog.
 
