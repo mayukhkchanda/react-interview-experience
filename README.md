@@ -14,6 +14,7 @@
       - [Network Optimization by JsCafe](https://www.youtube.com/watch?v=hEEldnT00pU&list=PLe3J6mZBq1xV-TDUJoV9V6rvBtKW95OD0) - Network performance in web applications by _JsCafe_. Also, check the frontend system design and machine coding questions.
       - [Frontend System Design by Chirag Goel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU) - Frontend system design concepts by Chirag Goel
       - [BigFrontEnd.dev](https://bigfrontend.dev/problem) - Great vanila JS practise problems with test cases.
+      - I jotted down some of the frequent JavaScript questions and their implementation in this [JavaScript Interview questions](https://mayukhkchanda.github.io/js-interview-questions/) blog.
       - [Miscellaneous JS Topics](./miscellaneous-web-topics.md) - Collection of topics on Web Performance, Accessibility & FE System Design.
 
 ## React.Js Framework
@@ -32,7 +33,6 @@
 ## Frontend System Design: 
    - **Frontend System Design Playlist**: https://youtube.com/playlist?list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT&si=-_A9WXgFsjQL7Ro0
 
-- I jotted down some of the frequent JavaScript questions and their implementation in this [JavaScript Interview questions](https://mayukhkchanda.github.io/js-interview-questions/) blog.
 - For behavioural questions, have a rough idea about the points that help your case.
 I hope this guide helps you in your preparations. My best wishes are with you.
 Thanks for reading.😊
