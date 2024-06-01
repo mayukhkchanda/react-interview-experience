@@ -12,6 +12,7 @@
 - [Network Optimization by JsCafe](https://www.youtube.com/watch?v=hEEldnT00pU&list=PLe3J6mZBq1xV-TDUJoV9V6rvBtKW95OD0) - Network performance in web applications by _JsCafe_. Also, check the frontend system design and machine coding questions.
 - [Frontend System Design by Chirag Goel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU) - Frontend system design concepts by Chirag Goel
 - [BigFrontEnd.dev](https://bigfrontend.dev/problem) - Great vanila JS practise problems with test cases.
+- [Miscellaneous Web Topics](./miscellaneous-web-topics.md) - Collection of topics on Web Performance, Accessibility & FE System Design.
 
 ## React.Js Framework
 
