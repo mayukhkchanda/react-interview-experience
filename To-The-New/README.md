@@ -43,6 +43,8 @@
      </script>
      ```
 
+  1. `img`'s `src` & `srcset` tag difference.
+  1. box-model & box-sizing in HTML
   1. How to specify the fallback option in an image tag?
 
 - **CSS**
@@ -62,7 +64,8 @@
 - **JS**
 
   1. Flatten object. Key might include arrays or nested objects.
-  2. Output & explain:
+  1. Promise polyfill.
+  1. Output & explain:
 
      1. `arguments` obj
 
