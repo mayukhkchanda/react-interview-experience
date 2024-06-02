@@ -10,5 +10,5 @@
 - **React Design Patterns**: https://refine.dev/blog/react-design-patterns/#introduction
 
 ## Into the Depth:
-- **Dan Abramov Simplified Into into RSC**: https://github.com/reactwg/server-components/discussions/5
+- **Dan Abramov Simplified Intro into RSC**: https://github.com/reactwg/server-components/discussions/5
   - The Post is really helpful as it gets into the depth of how JSX objects are turned into HTML nodes and includes a polyfill for the `render` method in React.
