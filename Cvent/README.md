@@ -55,6 +55,7 @@
      - Explain the output & how to fix?
   1. Polyfill of `Array.prototype.reduce` (including edge cases when initial argument is not passed and array is empty)
      > https://bigfrontend.dev/problem/implement-Array-prototype-reduce
+  1. How to deep copy & shallow copy work ?  Which browser method can be used for deepCopy ?
 
 - **React**
 
