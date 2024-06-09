@@ -30,7 +30,9 @@ These topics are miscellaneous ranging from Performance, Accessibility, Critical
       - _Case Study of RedBus Optimizing INP_: https://web.dev/case-studies/redbus-inp
     - _First Contentful Paint(FCP)_: https://web.dev/articles/fcp
     - _Time To First Byte(TTFB)_: https://web.dev/articles/ttfb
-    - _Total Blocking Time(TBT)_: https://web.dev/articles/tbt
+    - _Total Blocking Time(TBT)_: https://web.dev/articles/tbt 
+1. **JS Startup Perf**:
+    - https://medium.com/reloading/javascript-start-up-performance-69200f43b201
 
 ## JS Engine & V8
 1. **Official V8 docs**: https://v8.dev/blog/sandbox
