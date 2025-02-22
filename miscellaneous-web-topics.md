@@ -41,4 +41,5 @@ These topics are miscellaneous ranging from Performance, Accessibility, Critical
 4. **Into the V8 JS Engine**: https://www.youtube.com/watch?v=p-iiEDtpy6I&list=PLp1PHH434Nyyjbz4e9Q2QeDShIReYOEKc&index=63
 5. **Into the Event Loop**: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 6. **Into the JS Engine Parser**: https://www.youtube.com/watch?v=Fg7niTmNNLg
+7. **Prototypes & Inheritance in JS**: https://mathiasbynens.be/notes/prototypes, https://youtu.be/IFWulQnM5E0
   
